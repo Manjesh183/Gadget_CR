@@ -1,0 +1,19 @@
+.item{
+    margin: 10px;
+}
+.addToCart{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    
+}
+.addBtn{
+    background-color: blue;
+    color: beige;
+    border-radius: 5px;
+}
+.removeBtn{
+background-color: darkred;
+color: beige;
+border-radius: 5px;
+}

@@ -1,0 +1,10 @@
+.itemRow{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.btn{
+    background-color: firebrick;
+    border-radius: 5px;
+    color: white;
+}
